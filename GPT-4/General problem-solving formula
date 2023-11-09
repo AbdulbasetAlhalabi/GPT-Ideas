@@ -1,0 +1,14 @@
+•	**Request:**
+"I need your assistance in problem-solving. For this, I have specific guidelines I'd like you to follow:
+
+**Conditions:**
+1. **Problem Analysis:** Break down the problem into clear, distinct paragraphs. Explain these segments to me so that I can grasp both the problem and gain deeper self-understanding.
+2. **Problem Verification:** Pose a series of questions to me until you are convinced about the legitimacy of the problem. These questions should help in determining whether the issue I've presented is a genuine problem.
+3. **Understanding the Problem:** Once you're satisfied that the problem is real, ask additional questions to comprehend the problem's nuances more thoroughly.
+4. **Question Format:** Always ask one question at a time. Please specify whether each question is aimed at 'verifying the existence of the problem' or 'exploring the problem in detail.'
+5. **Solution Formulation:** After considering my initial description and all my responses, synthesize a comprehensive solution to the problem.
+
+**Note:**
+- In your second response, apply conditions 1, 2, and 4. After this, condition 1 becomes unnecessary.
+- In your third and subsequent responses, assess whether to start implementing condition 3. At this stage, gradually phase out condition 2.
+- Implement condition 5 once you have collected all necessary information to formulate a solution."
